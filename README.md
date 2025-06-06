@@ -37,20 +37,24 @@ A solução **não requer hardware adicional** — funciona apenas com uma câme
 
 ### ✅ Instalação das dependências
 
-Executar o **CMD.exe Prompt** do Anaconda Navigator, e realizar o seguinte comando para a instalação das dependências necessarias:
+Abra o **CMD.exe Prompt** do Anaconda Navigator e execute o seguinte comando para a instalação das dependências necessárias:
 
-```bash
+```
 pip install opencv-python mediapipe
 ```
 
 ### ✅ Execultando o codigo: 
 
-Após a instalção das dependencias, execute o **VS Code** do Anaconda Navigator e procure o projeto clonado. 
+Após a instalação das dependências, abra o **VS Code** pelo Anaconda Navigator e localize o projeto clonado. 
+
+Execute o arquivo **main.py**
 
 ---
 
-##  🎥 Link do vídeo demonstrativo
+##  🎥 Link dos vídeos 
 
+- [**Vídeo demonstratido do projeto**](https://drive.google.com/file/d/1fUtMI0WmP7xrZr5rR8B0vA833Ng8yDaK/view?usp=sharing)
+- **Vídeo explicativo do projeto**
 
 
 ---
