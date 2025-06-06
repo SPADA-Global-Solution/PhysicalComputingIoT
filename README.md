@@ -54,7 +54,7 @@ Execute o arquivo **main.py**
 ##  🎥 Link dos vídeos 
 
 - [**Vídeo demonstratido do projeto**](https://drive.google.com/file/d/1fUtMI0WmP7xrZr5rR8B0vA833Ng8yDaK/view?usp=sharing)
-- **Vídeo explicativo do projeto**
+- [**Vídeo explicativo do projeto**](https://www.youtube.com/watch?v=ji87xVY5gNM)
 
 
 ---
